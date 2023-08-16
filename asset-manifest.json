@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Speech-to-Text-Converter/static/css/main.2febed51.css",
+    "main.js": "/Speech-to-Text-Converter/static/js/main.cec8838c.js",
+    "index.html": "/Speech-to-Text-Converter/index.html",
+    "main.2febed51.css.map": "/Speech-to-Text-Converter/static/css/main.2febed51.css.map",
+    "main.cec8838c.js.map": "/Speech-to-Text-Converter/static/js/main.cec8838c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2febed51.css",
+    "static/js/main.cec8838c.js"
+  ]
+}
